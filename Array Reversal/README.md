@@ -10,4 +10,5 @@
  - Every time swap the first element with the last element
  - As shwon in figure
  
-![hacker](https://user-images.githubusercontent.com/76526170/211390973-f4751bc3-67e6-45d6-9151-9a6c4a5a8cde.png)
+
+![hacker](https://user-images.githubusercontent.com/76526170/211391143-9428a2ac-29cb-4349-9705-fe721f080a01.png)
