@@ -12,6 +12,6 @@
      - Check index & j if greater than the variable intiate change the value to new one
      - Check index | j if greater than the variable intiate change the value to new one
      - Check index ^ j if greater than the variable intiate change the value to new one
-     - Dont forget to print the answer
+ - Dont forget to print the answer
 
  
