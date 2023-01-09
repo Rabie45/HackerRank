@@ -5,11 +5,8 @@
 
 int main() {
 
-    char s[1024];
-    int arr[9];
-    for (int i=0; i<10; i++) {
-    arr[i]=0;
-    }
+    char s[1000];
+    int arr[9]={0};
     scanf("%s",&s);
     for (int i=0; i<10; i++){
         int count=0;
