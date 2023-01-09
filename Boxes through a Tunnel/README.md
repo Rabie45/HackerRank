@@ -1,4 +1,13 @@
-# HackerRank
- ## HackerRank dummy solutions
+# Boxes through a Tunnel
+
+ ## Explination:
+  - Create a struct have int: length, width and height
+  - Create a function to return volume
+  - Create a function to check if the array have height less than the max 
+  
+ ## Algorithm:
+  - Declear the variables in the struct 
+  - Make the function get_volume return the (refrance.height * reference.length * reference.width)
+  - If the height less than 41 return 1 else return 0
  
-![attack-on-titan-shingeki-no-kyojin](https://user-images.githubusercontent.com/76526170/209472413-b3f849ab-269e-49b9-b5ac-cc35fc31ce45.gif)
+
