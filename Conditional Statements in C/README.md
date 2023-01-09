@@ -1,4 +1,10 @@
-# HackerRank
- ## HackerRank dummy solutions
+# Conditional Statements in C
+ ## Explination:
+  - If the number less than 9 print the number with letters
+  - Else print greater than 9
+  
+ ## Algorithm:
+  - NO NEED To make algorithm just if conditions
+  - Dont forget to make \n after print
  
-![attack-on-titan-shingeki-no-kyojin](https://user-images.githubusercontent.com/76526170/209472413-b3f849ab-269e-49b9-b5ac-cc35fc31ce45.gif)
+
