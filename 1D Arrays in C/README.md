@@ -1,4 +1,13 @@
-# HackerRank
- ## HackerRank dummy solutions
+# 1D Arrays in C
+ ## Explination:
  
-![attack-on-titan-shingeki-no-kyojin](https://user-images.githubusercontent.com/76526170/209472413-b3f849ab-269e-49b9-b5ac-cc35fc31ce45.gif)
+ - Input number of integers
+ - Print the sum of the array 
+ 
+ ## Algorithm:
+ 
+ - Get the size of the array 
+ - Get the element of the array
+ - Create a for loop to go through the array
+ - Var sum intiate by 0 
+ - Every time in the loop add the element to sum variable
