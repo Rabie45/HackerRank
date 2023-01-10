@@ -1,4 +1,10 @@
-# HackerRank
- ## HackerRank dummy solutions
- 
-![attack-on-titan-shingeki-no-kyojin](https://user-images.githubusercontent.com/76526170/209472413-b3f849ab-269e-49b9-b5ac-cc35fc31ce45.gif)
+# Small Triangles, Large Triangles
+
+ ## Explination:
+  - Sort the given triangles by area
+ ## Algorithm:
+  - The area of the triangle is:
+  ![tri](https://user-images.githubusercontent.com/76526170/211596238-9680101e-3773-4af6-8499-d72fcf5272a7.PN
+  - Create array to store the values 
+  - Create a loop to go through the array and sort the areas and the 3 heights
+  
