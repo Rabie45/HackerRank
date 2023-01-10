@@ -1,4 +1,11 @@
-# HackerRank
- ## HackerRank dummy solutions
+# Printing Tokens
+ ## Explination:
+  - Print the line witout the spaces in lines
+  
+ ## Algorithm:
+  - Make for loop to go through the array 
+  - Check if the char is " " (space) print new line
+  - Else print the word 
+  
  
-![attack-on-titan-shingeki-no-kyojin](https://user-images.githubusercontent.com/76526170/209472413-b3f849ab-269e-49b9-b5ac-cc35fc31ce45.gif)
+
